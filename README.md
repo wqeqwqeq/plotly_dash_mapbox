@@ -65,5 +65,5 @@ https://entrepreneurship.columbia.edu/wp-content/uploads/2017/06/GlobalAILogoNam
 
 * **Zhehui Yuan** - *Initial work* - [GitHub](https://github.com/wqeqwqeq) [LinkedIn](https://www.linkedin.com/in/stanley-yuan-6093a317a/)
 
-See also the list of [contributors](https://github.com/wqeqwqeq/plotly_dash_mapbox/contributor.md) who participated in this project.
+See also the list of [contributors](https://github.com/wqeqwqeq/plotly_dash_mapbox/blob/master/Contributor.md) who participated in this project.
 
