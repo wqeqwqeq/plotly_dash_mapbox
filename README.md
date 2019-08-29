@@ -45,21 +45,42 @@ All of our code is deployed on heroku.
 
 
 ## Result of deployment and sample pic
-1. Macro CISS: https://cissploty.herokuapp.com
-https://entrepreneurship.columbia.edu/wp-content/uploads/2017/06/GlobalAILogoName.jpg
+#### Please wait for 30 seconds after click on the link, cause the code need to be launched on a remote server on heroku, it takes time.
+#### If nothing show up initially, try to play with the bars and hit submit, then your are good to go. You can hover on the graph to find more insights about out data. Isn't it really cool? 
 
+
+1. Macro CISS: https://cissploty.herokuapp.com
+
+![alt text](https://github.com/wqeqwqeq/plotly_dash_mapbox/blob/master/pic/CISS%20signal.png)
 
 2. World bank. https://shuyidashapp.herokuapp.com  (Username: stanley, Password yuan)
 
+![alt text](https://github.com/wqeqwqeq/plotly_dash_mapbox/blob/master/pic/Worldbank.png)
+
+
 3. Political risk: http://gai-test1-app.herokuapp.com
+
+![alt text](https://github.com/wqeqwqeq/plotly_dash_mapbox/blob/master/pic/Political%20risk.png)
+
 
 4. Anomalies：https://anomlies.herokuapp.com
 
+![alt text](https://github.com/wqeqwqeq/plotly_dash_mapbox/blob/master/pic/Anomalies.png)
+
+
 5. SDG: https://sdgcom.herokuapp.com 
+
+![alt text](https://github.com/wqeqwqeq/plotly_dash_mapbox/blob/master/pic/SDG_Radar.png)
+
 
 6. Turbulence: https://gai-tb-test.herokuapp.com/
 
-7. Mapbox: https://my-powerplant.herokuapp.com/
+![alt text](https://github.com/wqeqwqeq/plotly_dash_mapbox/blob/master/pic/turbulance.png)
+
+7. Powerplant by Mapbox: https://my-powerplant.herokuapp.com/
+
+![alt text](https://github.com/wqeqwqeq/plotly_dash_mapbox/blob/master/pic/powerplant.png)
+
 
 ## Authors
 
